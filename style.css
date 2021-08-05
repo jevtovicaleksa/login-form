@@ -1,0 +1,25 @@
+#log{
+	border-radius: 15px 15px 15px 15px;
+	background-color: white;
+	padding-top: 1S5px;
+	margin-left: 25px;
+	margin-right: 25px;
+	max-width: 50%;
+}
+
+.active{
+	background-color: white;
+}
+
+body{
+	background-color: #f2f2f2;
+}
+
+#forma_vesti{
+	/*background-color: white!important;*/
+}
+
+#statistika {
+	display: flex;
+	flex-direction: column;
+}
